@@ -1,7 +1,8 @@
 // Usage: node multiply.js
 
 function multiply(a, b) {
-    // TODO: return the product of the numbers
+    a + b;
+    // Nothing
 }
 
 if (multiply(13, 5) === 65) {
