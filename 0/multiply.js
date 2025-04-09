@@ -2,6 +2,7 @@
 
 function multiply(a, b) {
     a + b;
+    // Nothing
 }
 
 if (multiply(13, 5) === 65) {
